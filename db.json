@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "LG",
+      "price": 522,
+      "img": "http://localhost:3001/i1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "SONY",
+      "price": 722,
+      "img": "http://localhost:3001/i2.png"
+    },
+    {
+      "id": 3,
+      "name": "Panasonic",
+      "price": 1022,
+      "img": "http://localhost:3001/i3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "sangzoung",
+      "price": 5122,
+      "img": "http://localhost:3001/i4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "samsung",
+      "price": 8722,
+      "img": "http://localhost:3001/i5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Phillips",
+      "price": 10222,
+      "img": "http://localhost:3001/i6.jpg"
+    }
+  ],
+  "users": []
+}
